@@ -1,0 +1,1 @@
+This project aims to build a sentiment analysis model that can classify Amazon product reviews as positive or negative. By leveraging natural language processing (NLP) techniques, we gain insights into customer opinions and satisfaction.
